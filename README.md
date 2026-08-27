@@ -1,3 +1,11 @@
+<img width="1898" height="857" alt="Screenshot 2026-08-27 135257" src="https://github.com/user-attachments/assets/3f785251-beeb-4545-9fa6-ec2607d14010" />
+<img width="1917" height="862" alt="Screenshot 2026-08-27 135411" src="https://github.com/user-attachments/assets/08ecfa7e-b300-4e07-948f-562b31515168" />
+<img width="1916" height="856" alt="Screenshot 2026-08-27 135424" src="https://github.com/user-attachments/assets/649278e5-a166-476f-88e8-9d88f7141e09" />
+<img width="1897" height="855" alt="Screenshot 2026-08-27 140039" src="https://github.com/user-attachments/assets/806fd5de-8101-478d-9bdf-530dd731e0b8" />
+<img width="1896" height="835" alt="Screenshot 2026-08-27 140051" src="https://github.com/user-attachments/assets/46520880-6cf2-497c-bccb-050703e73949" />
+<img width="1887" height="848" alt="Screenshot 2026-08-27 140059" src="https://github.com/user-attachments/assets/10fcaa8b-54c2-46e9-983e-3373391a39dc" />
+
+
 # Agentic-Travel Guide
 
 An AI-powered travel planning and product discovery platform that generates personalized trip itineraries with real-time pricing, weather-aware scheduling, and smart product recommendations — all orchestrated by multi-agent LangGraph workflows.
